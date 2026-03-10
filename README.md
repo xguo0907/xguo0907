@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Guo Xiao
 
 🎓 Machine Learning Student  
