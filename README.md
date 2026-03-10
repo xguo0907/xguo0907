@@ -2,7 +2,7 @@
 
 🎓 Machine Learning Student  
 💻 Python & Data Science Learner  
-📍 Based in China & Tokyo 
+📍 Based in Tokyo 
 
 ---
 
